@@ -1,4 +1,5 @@
 ## Password generator
+<h3>Description</h3>
 <ul>
   <li>Choose from a range of password length options (starting from 8).</li>
   <li>Select from a variety of character types (uppercase letters, lowercase letters, numbers, special characters).</li>
